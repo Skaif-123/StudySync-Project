@@ -69,9 +69,6 @@ To make changes:
 ## Contributing
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request. Ensure your code follows the project's coding standards.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 Created and maintained by Kaif Ajaz Bhombal . If you have any questions, feel free to reach out through this repository.
 
