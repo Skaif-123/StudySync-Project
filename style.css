@@ -674,7 +674,6 @@ nav {
 .footer-grid{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    width: 58%;
     gap: 5.6rem;
    padding-top: 2rem;
 }
@@ -728,9 +727,7 @@ nav {
 }
 
 @media screen and (max-width: 780px){
-    .footer-top{
-        padding-left: 2rem;
-    }
+   
     .footer-grid{
         grid-template-columns: repeat(2,1fr);
     }
